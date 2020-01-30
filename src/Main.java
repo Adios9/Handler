@@ -9,11 +9,5 @@ public class Main {
         stringObjectHashMap.put("c", "xixixi");
         System.out.println(stringObjectHashMap);
         System.out.println("hhhh");
-
-        System.out.println("fdsfds");
-
-        System.out.println("fdsfdsfdsß");
-
-        System.out.println("fdsfsdfdsßß");
     }
 }

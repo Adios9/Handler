@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee0f1778-a635-40a6-917c-e0ca2de3bcb6" name="Default" comment="测试上传代码">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ee0f1778-a635-40a6-917c-e0ca2de3bcb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -138,7 +137,7 @@
       <workItem from="1577552192349" duration="9000" />
       <workItem from="1578063065278" duration="108000" />
       <workItem from="1579599093718" duration="49000" />
-      <workItem from="1580363047797" duration="447000" />
+      <workItem from="1580363047797" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="测试上传代码">
       <created>1568026950695</created>
@@ -154,11 +153,25 @@
       <option name="project" value="LOCAL" />
       <updated>1572578756664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试修改用户名">
+      <created>1580364409336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580364409336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试修改用户名">
+      <created>1580364520310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580364520310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4315000" />
+    <option name="totallyTimeSpent" value="4640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
@@ -202,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试上传代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试上传代码" />
+    <MESSAGE value="测试修改用户名" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试修改用户名" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -313,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="272">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
