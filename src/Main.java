@@ -8,6 +8,7 @@ public class Main {
         stringObjectHashMap.put("b", "hahaha");
         stringObjectHashMap.put("c", "xixixi");
         System.out.println(stringObjectHashMap);
+        System.out.println("测试提交名称");
         System.out.println("hhhh");
     }
 }
