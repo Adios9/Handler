@@ -5,10 +5,5 @@
 public class TestDemo {
     public static void main(String[] args) {
         final int a = 10;
-        System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
-        System.out.println(a);
     }
 }
