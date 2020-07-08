@@ -1,12 +1,15 @@
 package com.demo;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 
 public class TestDemo {
     public static void main(String[] args) {
-        int a = 10;
-        int ceil = (int) Math.ceil(a / 3d);
-        System.out.println(ceil);
+        String payMonth = "2,5";
+        System.out.println(payMonth.contains("6"));
     }
 }
